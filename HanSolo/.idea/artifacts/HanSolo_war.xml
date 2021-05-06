@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HanSolo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HanSolo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HanSolo.war">
+      <element id="artifact" artifact-name="HanSolo:war exploded" />
+    </root>
+  </artifact>
+</component>
