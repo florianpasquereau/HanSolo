@@ -1,2 +1,4 @@
-./HanSolo/target/*
-./docker/web/logs/*
+HanSolo/target/*
+docker/web/logs/*
+HanSolo/.idea
+HanSolo/HanSolo.iml
